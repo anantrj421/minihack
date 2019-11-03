@@ -32,6 +32,6 @@ app.get('/medi',function(req,res){
 app.get('/medshop',function(req,res){
     res.render('medstore');
 });
-app.listen(3000, function(){
-    console.log("started");
-});
+
+const PORT = process.env.PORT || 3000
+app.listen(PORT)
