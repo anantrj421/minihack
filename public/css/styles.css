@@ -1,0 +1,85 @@
+.navbar{
+    background-color: #f0134d;
+    color: white;
+    padding: 15px 0px 15px 0px !important;
+}
+.navbar h2 {
+    margin-right: 30px;
+}
+.navbar i{
+    margin-left: 30px;
+    color: white;
+}
+.log{
+    margin-top: 30px;
+    width: 30% !important;
+}
+.form-group{
+    text-align: center;
+}
+.hm button{
+    padding: 40px 60px 40px 60px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: #7572f4;
+    color: white;
+    font-size: 1.5rem;;
+}
+.hm button:hover{
+    background-color: rgb(21, 154, 158);
+}
+.doc button{
+    background-color: #c72c41;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+.doc button:hover{
+    background-color: tomato;
+}
+.im{
+    margin: 20px 0px 0px 0px;
+}
+.nd{
+    margin: 25px 25px 25px 25px;
+}
+.dr{
+    width: 50% !important;
+}
+.med{
+    width: 30% !important;
+}
+.med .card-body{
+    text-align: center;
+}
+.md{
+    background-color: #d41a49;
+    margin: 10px auto 30px auto;
+}
+.meds{
+    text-align: center;
+    margin: 40px auto 40px auto;
+}
+.meds button{
+    padding: 10px 30px 10px 30px;
+    background-color: #5eb7b7;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.meds button:hover{
+    background-color: teal;
+}
+.bbtn{
+    border: none;
+    padding: 5px 15px 5px 15px;
+    color: white;
+    background-color: rgb(53, 48, 48);
+}
+.bbtn:hover{
+    background-color: cadetblue;
+}
