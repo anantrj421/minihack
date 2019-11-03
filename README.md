@@ -5,3 +5,4 @@ We have made a web app which can be usefull for patients as well as doctors. It 
 Due to the time, we were only able to code few paths.
 INSTRUCTIONS:
 There is no login id and password required. Doctor and patient paths are created. Then, in patient only medicine path is created and medical store is created. These can be accessed.
+ACCESS WEBSITE THROUGH FOLLOWING HEROKU LINK: https://minihackcoderit.herokuapp.com/
