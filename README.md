@@ -7,5 +7,5 @@ INSTRUCTIONS:
 There is no login id and password required. Doctor and patient paths are created. Then, in patient only medicine path is created and medical store is created. These can be accessed.
 ACCESS WEBSITE THROUGH FOLLOWING HEROKU LINK: https://minihackcoderit.herokuapp.com/
 For starting app from code:
-type node server.js in terminal and hit enter
-go to browser and type localhost:3000/
+1)type node server.js in terminal and hit enter
+2)go to browser and type localhost:3000/
