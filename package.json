@@ -1,0 +1,25 @@
+{
+  "name": "minihack",
+  "version": "1.0.0",
+  "description": "For the code rit hackathon",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anantrj421/minihack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anantrj421/minihack/issues"
+  },
+  "homepage": "https://github.com/anantrj421/minihack#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
